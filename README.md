@@ -9,13 +9,17 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a whitewater kayaker! 
 
+<h3 align="left">How to reach me:</h3>
 <span align="left">
-    <a href="https://www.linkedin.com/in/matthew-walker4/" target="_Blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" height="20" width="20" alt="LinkedIn"/> https://www.linkedin.com/in/matthew-walker4/</a>
+    <a align="left" href="https://www.linkedin.com/in/matthew-walker4/" target="_Blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" height="20" width="20" alt="LinkedIn"/> https://www.linkedin.com/in/matthew-walker4/</a>
 </span>
 
+
+<br>
 <br>
 
 > "Complaining about a problem without posing a solution is called whining" - Theodore Roosevelt
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew-r-walker&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-r-walker&theme=tokyonight)
