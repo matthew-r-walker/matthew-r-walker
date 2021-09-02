@@ -1,5 +1,5 @@
-### Hi there 👋
-# Hi there 👋 , welcome to Matthew's github!
+
+# Hello 👋 , welcome to Matthew's github!
 ![](https://visitor-badge.laobi.icu/badge?page_id=matthew-r-walker)
 [![Github](https://img.shields.io/github/followers/matthew-r-walker?label=Follow&style=social)](https://github.com/matthew-r-walker)
 
