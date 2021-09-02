@@ -5,7 +5,7 @@
 
 ## I'm a Full stack developer attending Codeup in San Antonio
 
-- 🔭 I’m currently working on completing the Codeup Web development bootcamp
+- 🔭 I’m currently working on completing the Codeup Full Stack Web Development bootcamp
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a whitewater kayaker! 
 
