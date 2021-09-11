@@ -3,9 +3,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=matthew-r-walker)
 [![Github](https://img.shields.io/github/followers/matthew-r-walker?label=Follow&style=social)](https://github.com/matthew-r-walker)
 
-## I'm a Full stack developer attending Codeup in San Antonio
+## I'm a Software Devoloper who recently graduated from Codeup's Full Stack Web Development program in San Antonio
 
-- 🔭 I’m currently working on completing the Codeup Full Stack Web Development bootcamp
+- 🔭 I’m currently looking for employment
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a whitewater kayaker! 
 
@@ -22,7 +22,8 @@
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew-r-walker&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-r-walker&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matthew-r-walker&theme=tokyonight)](https://git.io/streak-stats)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-r-walker&theme=tokyonight) -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
